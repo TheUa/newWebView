@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50ae6998-8732-42ca-897d-f0a8c011fd95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/WebResourceRequestAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/github/greatwing/WebResourceRequestAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.0.134:5555" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dl4dZNrkdj0aDASMkINCvQVTEy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R58M478DGAN" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-24T08:56:25.965939Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ae6998-8732-42ca-897d-f0a8c011fd95" name="Default Changelist" comment="" />
+      <created>1592986433992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592986433992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="333" key="Github.ShareDialog" timestamp="1592991823513">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="534" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1592991823513" />
+    <state width="1398" height="373" key="GridCell.Tab.0.bottom" timestamp="1592992500644">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1592992500644" />
+    <state width="1398" height="373" key="GridCell.Tab.0.center" timestamp="1592992500644">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1592992500644" />
+    <state width="1398" height="373" key="GridCell.Tab.0.left" timestamp="1592992500643">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1592992500643" />
+    <state width="1398" height="373" key="GridCell.Tab.0.right" timestamp="1592992500644">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="373" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1592992500644" />
+    <state x="308" y="179" key="IDE.errors.dialog" timestamp="1592991530303">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="308" y="179" key="IDE.errors.dialog/0.23.1440.813@0.23.1440.813" timestamp="1592991530303" />
+    <state x="395" y="139" key="RollbackChangesDialog" timestamp="1592991600909">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="395" y="139" key="RollbackChangesDialog/0.23.1440.813@0.23.1440.813" timestamp="1592991600909" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1592992616010">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1592992616010" />
+    <state x="459" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592991628528">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="459" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.813@0.23.1440.813" timestamp="1592991628528" />
+  </component>
+</project>

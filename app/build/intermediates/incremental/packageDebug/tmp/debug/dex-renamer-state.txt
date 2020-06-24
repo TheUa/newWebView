@@ -1,0 +1,4 @@
+#Wed Jun 24 12:24:59 EEST 2020
+base.0=/Users/system/IntelliJIDEAProjects/CacheWebview_CrossWalk/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
